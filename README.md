@@ -1,7 +1,7 @@
 # Multi-Layer-TCP-IP-Secure-ns3
 Post-Quantum Multi-Layered Security Framework for NS-3 Simulations
 
-![Proposed Architecture](https://drive.google.com/uc?export=view&id=1-kpYdvFm-vdo4ahRvTbMdQV0g8d_EfvY)
+![Proposed Architecture](https://drive.google.com/uc?export=view&id=1RO7tDuHiHWNF2S9TddxflnyShNVWK8UJ)
 
 | Security Feature                             | TCP/IP Layer      |
 |----------------------------------------------|-------------------|
